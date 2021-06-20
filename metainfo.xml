@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="D6D0D16B-FBBC-45B8-8815-266685222EC1" version="0">
+	<info>
+		<title>2021_06_20_EXAM5CLASSX</title>
+		<description/>
+	</info>
+	<files index="id26" thumbnail="id22" totalSize="2440982">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-242075dece62aedf4bc5cfd6deeee188f7ed5467.jpg</file>
+		<file id="id10">data/images/img-725488fa85b196f1d2b4ba869d385f14936e67d3.png</file>
+		<file id="id11">data/images/img-732cb273ca23dbeff7d809badec40970aa3c86a8.png</file>
+		<file id="id12">data/images/img-891d64a85dc0d46a96f2bcaf6fbacc17c6294a08.png</file>
+		<file id="id13">data/images/img-8dfe56820012e3c3b45eaecb341b21f98d536cac.png</file>
+		<file id="id14">data/images/img-aac99b8be1e5cf63ebc90617c15cadfe1557b17e.png</file>
+		<file id="id15">data/images/img-b29f295ceb180e80680c0c778a9bee3d987a18a9.png</file>
+		<file id="id16">data/images/img-b2eb7b1329c24a6b8fe9925e4445445f9d66468a.png</file>
+		<file id="id17">data/images/img-b3f267d0d39ee7bdfca4acdcc68f4a4a46452439.png</file>
+		<file id="id18">data/images/img-de2a657be026216239cb20852a4fa1a27b41ca08.jpg</file>
+		<file id="id19">data/images/img-edc8fb3e1f50d2849a5aab536ffbe596df2a8801.png</file>
+		<file id="id20">data/ismplayer/app_store2x.png</file>
+		<file id="id21">data/ismplayer/play.svg</file>
+		<file id="id22">data/ismplayer/preview.png</file>
+		<file id="id23">data/ismplayer/style.css</file>
+		<file id="id24">data/ismplayer/style_mini.css</file>
+		<file id="id25">data/player.js</file>
+		<file id="id26">index.html</file>
+		<file id="id27">ismplayer.html</file>
+		<file id="id28">preview.png</file>
+	</files>
+</presentation>
+
